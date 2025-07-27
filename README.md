@@ -1,3 +1,5 @@
+![FullStack Crash Course by Valentino Phiri](/assets/course-title.png)
+
 ### **Course Title: Full Stack from Scratch: The No-Framework Crash Course — From Zero to Deployed**
 
 _By: Valentino Phiri (@Valent-p)_
